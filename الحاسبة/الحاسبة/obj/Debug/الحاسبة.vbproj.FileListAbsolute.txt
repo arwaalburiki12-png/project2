@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\الحاسبة\الحاسبة\bin\Debug\الحاسبة.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\الحاسبة\الحاسبة\bin\Debug\الحاسبة.exe
+C:\Users\User\documents\visual studio 2015\Projects\الحاسبة\الحاسبة\bin\Debug\الحاسبة.pdb
+C:\Users\User\documents\visual studio 2015\Projects\الحاسبة\الحاسبة\bin\Debug\الحاسبة.xml
+C:\Users\User\documents\visual studio 2015\Projects\الحاسبة\الحاسبة\obj\Debug\الحاسبة.vbprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\الحاسبة\الحاسبة\obj\Debug\الحاسبة.Form1.resources
+C:\Users\User\documents\visual studio 2015\Projects\الحاسبة\الحاسبة\obj\Debug\الحاسبة.Form2.resources
+C:\Users\User\documents\visual studio 2015\Projects\الحاسبة\الحاسبة\obj\Debug\الحاسبة.Resources.resources
+C:\Users\User\documents\visual studio 2015\Projects\الحاسبة\الحاسبة\obj\Debug\الحاسبة.vbproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2015\Projects\الحاسبة\الحاسبة\obj\Debug\الحاسبة.exe
+C:\Users\User\documents\visual studio 2015\Projects\الحاسبة\الحاسبة\obj\Debug\الحاسبة.xml
+C:\Users\User\documents\visual studio 2015\Projects\الحاسبة\الحاسبة\obj\Debug\الحاسبة.pdb
